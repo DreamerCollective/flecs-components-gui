@@ -1,6 +1,6 @@
 #define FLECS_COMPONENTS_GUI_IMPL
 
-#include <flecs_components_gui.h>
+#include <flecs/flecs-components-gui/include/flecs_components_gui.h>
 
 void FlecsComponentsGuiImport(
     ecs_world_t *world)
